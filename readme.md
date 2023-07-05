@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mazinislam431@gmail.com**
 
-- 📄 Know about my experiences [Check my cv](https://mazin-portfolio-backend.azurewebsites.net/api/cv)
+- 📄 Know about my experiences [***View resume***](https://mazin-portfolio-backend.azurewebsites.net/api/cv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
