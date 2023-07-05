@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mazinislam431@gmail.com**
 
-- 📄 Know about my experiences [https://master--mazin-islam-portfolio.netlify.app/assets/Mazin%20Islam%20back-end%20developer.pdf](https://master--mazin-islam-portfolio.netlify.app/assets/Mazin%20Islam%20back-end%20developer.pdf)
+- 📄 Know about my experiences [Check my cv](https://mazin-portfolio-backend.azurewebsites.net/api/cv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
