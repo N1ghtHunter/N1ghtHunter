@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mazin Islam</h1>
 <h3 align="center">A passionate full-stack developer from Egypt</h3>
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **Nest**
 
 - 👨‍💻 All of my projects are available at [https://mazin-islam-portfolio.netlify.app/](https://mazin-islam-portfolio.netlify.app/)
 
